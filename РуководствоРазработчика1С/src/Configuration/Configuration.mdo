@@ -38,4 +38,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.ОбщийМодуль1Клиент</commonModules>
+  <commonCommands>CommonCommand.ОбщаяКоманда1</commonCommands>
 </mdclass:Configuration>

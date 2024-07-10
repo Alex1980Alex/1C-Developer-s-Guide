@@ -40,4 +40,5 @@
   </languages>
   <commonModules>CommonModule.ОбщийМодуль1Клиент</commonModules>
   <commonCommands>CommonCommand.ОбщаяКоманда1</commonCommands>
+  <catalogs>Catalog.Справочник1</catalogs>
 </mdclass:Configuration>

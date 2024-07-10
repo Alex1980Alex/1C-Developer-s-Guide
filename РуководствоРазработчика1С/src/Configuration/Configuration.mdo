@@ -38,4 +38,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <sessionParameters>SessionParameter.ПараметрСеанса1</sessionParameters>
+  <commonCommands>CommonCommand.ОбщаяКоманда1</commonCommands>
+  <commonForms>CommonForm.Форма1</commonForms>
 </mdclass:Configuration>

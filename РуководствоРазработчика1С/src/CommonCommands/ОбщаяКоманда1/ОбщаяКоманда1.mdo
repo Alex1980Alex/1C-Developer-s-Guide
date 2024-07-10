@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonCommand xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="55fada12-d689-436d-80dd-4943990f1684">
+  <name>ОбщаяКоманда1</name>
+  <synonym>
+    <key>ru</key>
+    <value>Общая команда 1</value>
+  </synonym>
+  <group>ActionsPanelTools</group>
+  <representation>Auto</representation>
+</mdclass:CommonCommand>

@@ -38,4 +38,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonCommands>CommonCommand.ОбщаяКоманда1</commonCommands>
+  <commonForms>CommonForm.Форма1</commonForms>
 </mdclass:Configuration>

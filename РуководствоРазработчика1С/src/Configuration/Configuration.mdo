@@ -38,4 +38,9 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.ОбщийМодуль1СерверГлобальный</commonModules>
+  <commonModules>CommonModule.ОбщийМодуль2ВызовСервера</commonModules>
+  <commonModules>CommonModule.ОбщийМодуль3КлиентСервер</commonModules>
+  <commonForms>CommonForm.Форма1</commonForms>
+  <dataProcessors>DataProcessor.Обработка1</dataProcessors>
 </mdclass:Configuration>
